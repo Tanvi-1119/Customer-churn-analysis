@@ -14,14 +14,12 @@ IBM Telecom is experiencing a 26% customer churn rate, resulting in the loss of 
 * Identify the factors contributing to high churn rates.
 * Validate findings using SQL, Excel, and Power BI.
 * Recommend business strategies to improve customer retention.
-* Present insights in a clear and interactive Power BI dashboard.
 
 ## Tools and Technologies Used
 
 * **SQL** – Data querying and analysis
 * **Excel** – Data cleaning and preprocessing
 * **Power BI** – Data visualization and dashboard creation
-* **GitHub** – Project documentation and portfolio presentation
 
 ## Key Findings
 
@@ -52,8 +50,8 @@ IBM Telecom is experiencing a 26% customer churn rate, resulting in the loss of 
 * **Excel/** – Data cleaning and preprocessing files
 * **SQL/** – SQL queries used for analysis
 * **PowerBI/** – Power BI dashboard file
-* **Documentation/** – Detailed Business Analyst project documentation
-
+**Documentation/** – Detailed Business Analyst project documentation
+  
 ## Conclusion
 
 This project demonstrates my ability to apply Business Analysis and Data Analytics techniques to identify business problems, analyze customer churn patterns, and recommend data-driven strategies for improving customer retention.
