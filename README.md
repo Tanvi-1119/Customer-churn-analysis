@@ -50,7 +50,7 @@ IBM Telecom is experiencing a 26% customer churn rate, resulting in the loss of 
 * **Excel/** – Data cleaning and preprocessing files
 * **SQL/** – SQL queries used for analysis
 * **PowerBI/** – Power BI dashboard file
-**Documentation/** – Detailed Business Analyst project documentation
+* **Documentation/** – Detailed Business Analyst project documentation
   
 ## Conclusion
 
